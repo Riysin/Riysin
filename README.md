@@ -1,7 +1,7 @@
 <h1 align="center">Hi I'm Orange(柳橙)👋</h1>
 
 ## About ME
-- 🎓 Sophomore from NCHU UPICE in Taiwan.
+- 🎓 Junior from NCHU UPICE in Taiwan.
 - 💻 Python, basic Tensorflow/PyTorch ML, DL.
 - 💻 Java, Mostly for Minecraft Plugins.
 
@@ -23,8 +23,8 @@
 </div>
 
 ## Working On
+- [Outlands](https://github.com/Riysin/Outlands-Ananwars-) - A minecraft plugin project inspired by the game Rust
 - [OsuAI](https://github.com/Riysin/osuai) - A test project on building an ReinForcement Learning AI model that can play Osu!.
-- Project Rust - A minecraft plugin project inspired by the game Rust
   
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Riysin.Riysin&left_color=lightgray&right_color=lightsalmon"  />
